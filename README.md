@@ -28,7 +28,7 @@
 Welcome to my GitHub profile! Here you will find a collection of projects, scripts, and resources related to cloud support engineering and cloud engineering. As a cloud professional, I'm passionate about leveraging the power of cloud technologies to build scalable, reliable, and secure solutions.
 
 ## About Me :
-I am an experienced Cloud Support Engineer/Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and possess a deep understanding of cloud architecture, networking, security, and automation.
+I am an experienced Cloud Support Engineer/Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and I possess a deep understanding of cloud architecture, networking, security, and automation.
 
 With a customer-centric approach, I strive to deliver top-notch support to ensure smooth operations, troubleshoot issues, and provide solutions that meet business requirements. I am committed to staying up-to-date with the latest trends and best practices in cloud computing to deliver the best possible outcomes.
 
@@ -57,7 +57,7 @@ Feel free to explore the repositories to gain insights into my work and contribu
 - Databases: RDS, DynamoDB, Azure SQL, Cloud Spanner
 
 ## Occupation 😊
-- :telescope: I’m working as a Cloud Support Engineer and contributing to Cloud innovations and exploring the limitless possibilities of the cloud.
+- :telescope: I’m working as a Cloud Support Engineer, contributing to Cloud innovations and exploring the limitless possibilities of the cloud.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -67,7 +67,7 @@ Feel free to explore the repositories to gain insights into my work and contribu
 
 I'm always excited to connect with fellow cloud enthusiasts, share knowledge, and collaborate on interesting projects. You can reach me through the following channels:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PreciousEdmund-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PreciousEdmund-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-edmund-96860a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2wtNHaWRSVms6GpQJ3UgEw%3D%3D)
 
 
 ![@precious4855's Holopin board](https://holopin.me/precious4855)
