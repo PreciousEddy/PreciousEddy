@@ -24,11 +24,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 
-# Cloud Support Engineer / Cloud Engineer
+# Cloud Engineer
 Welcome to my GitHub profile! Here you will find a collection of projects, scripts, and resources related to cloud support engineering and cloud engineering. As a cloud professional, I'm passionate about leveraging the power of cloud technologies to build scalable, reliable, and secure solutions.
 
 ## About Me :
-I am an experienced Cloud Support Engineer/Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and I possess a deep understanding of cloud architecture, networking, security, and automation.
+I am an experienced Cloud Engineer with a strong background in cloud computing and a focus on supporting and optimizing cloud infrastructure. I have expertise in various cloud platforms, including AWS, Azure, and Google Cloud, and I possess a deep understanding of cloud architecture, networking, security, and automation.
 
 With a customer-centric approach, I strive to deliver top-notch support to ensure smooth operations, troubleshoot issues, and provide solutions that meet business requirements. I am committed to staying up-to-date with the latest trends and best practices in cloud computing to deliver the best possible outcomes.
 
